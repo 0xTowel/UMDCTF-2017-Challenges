@@ -2,7 +2,7 @@
 We suspect there was a secret agent in our network, so we recorded his network traffic and believe we caught him viewing classified materials. 
 Can you recover it for us? We think he viewed a flag.
 
-Challenge Download Link: [Download](https://mega.nz/#!MPpDRCrJ!2YyQ0Vzj4a3d3fKdcLE_SU6mmigp_VcnuEZW_SREjUs)
+Challenge Download Link: [Download](https://mega.nz/#!iWAlhA4C!KUhgspVjPjNRAfESFyDfxCPyQKZCoo7hIYNjUgABhcU)
 
 Challenge Download Pass: `UMDCTF-SecretAgentProblem`
 
