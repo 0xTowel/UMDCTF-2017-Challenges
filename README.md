@@ -10,7 +10,7 @@ Not every challenge from the CTF is included here, as some required on-site part
 
 # Challenge authors
   * [Towel](https://www.twitter.com/0xTowel)
-  * [jsfleming](https://jsfleming.github.io)
+  * [jsfleming](https://github.com/jsfleming)
   * [yossarian](https://github.com/woodruffw)
   * [Lumpus](https://github.com/1umpus)
   * [Misker](https://github.com/Miskerest)
